@@ -1,0 +1,32 @@
+Initialize engine version: 5.3.6p1 (ef59fdfbd254)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x179c)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\academic 2-1\unity\Game\G3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\academic 2-1\unity\Game\G3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\academic 2-1\unity\Game\G3_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\academic 2-1\unity\Game\G3_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\academic 2-1\unity\Game\G3_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\academic 2-1\unity\Game\G3_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\academic 2-1\unity\Game\G3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\academic 2-1\unity\Game\G3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\academic 2-1\unity\Game\G3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\academic 2-1\unity\Game\G3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.105 seconds
+Platform assembly: D:\academic 2-1\unity\Game\G3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\academic 2-1\unity\Game\G3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Log001') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 0.558819 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 50c -> priority: 1 
